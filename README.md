@@ -1,5 +1,5 @@
-### Hi there I am Shrey Pandit 👋 <br>
-# I am a Sophomore at BITS Goa
+# Hi there I am Shrey Pandit 👋 <br>
+### I am a Sophomore at BITS Goa
 Here are some ideas to get you started:
 <br>
 - 🌱 I’m currently exploring the feild of Computer Vision and Deep Learning
@@ -30,7 +30,3 @@ Here are some ideas to get you started:
 ---
 <br>
 <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyPandit&show_icons=true&hide_border=true" />
-<br>
-[website]: shreypandit.github.io/
-[twitter]: https://twitter.com/ShreyPandit2001
-[linkedin]: https://www.linkedin.com/in/shreypandit/
