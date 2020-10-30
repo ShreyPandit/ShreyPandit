@@ -1,7 +1,7 @@
 # Hi there I am Shrey Pandit 👋 <br>
 ### I am a Sophomore at BITS Goa
 <br>
-- 🌱 I’m currently exploring the feild of Computer Vision and Deep Learning
+- 🌱 I’m currently exploring the feild of Computer Vision and Deep Learning <br>
 - 👯 I’m looking to collaborate on projects on Deep learning
 <br>
 
