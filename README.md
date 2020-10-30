@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="shreypandit.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://shreypandit.github.io/]
-[<img align="left" alt="ShreyPandit2001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ShreyPandit2001]
-[<img align="left" alt="ShreyPandit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ShreyPandit]
+[<img align="left" alt="shreypandit.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreypandit.github.io/)
+[<img align="left" alt="ShreyPandit2001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShreyPandit2001)
+[<img align="left" alt="ShreyPandit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ShreyPandit)
 
 <br />
 
