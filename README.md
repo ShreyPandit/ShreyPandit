@@ -1,15 +1,17 @@
 # Hi there I am Shrey Pandit 👋 <br>
-### I am a Sophomore at BITS Goa
+### I am a Pre-Final year Computer Science student at BITS Goa
 <br>
-- 🌱 I’m currently exploring the feild of Computer Vision, Natural language processing and Deep Learning <br>
-- 👯 I’m looking to collaborate on projects on Deep learning
+- 🌱 I’m currently exploring the feild of Natural language processing and Computer Vision <br>
+- ♟ I am interested in Application based research projects of Machine Learning. <br>
+- 👯 I’m looking to collaborate on projects relating to NLP, work that relates to my current field of interest. <br>
+- 👻 Want to know More about Me? Follow me on LinkedIN.
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/ShreyPandit/count.svg)
 
 ### Connect with me:
 
-[<img align="left" alt="shreypandit.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreypandit.github.io/)
+[<img align="left" alt="shreypandit.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sites.google.com/view/shrey-pandit/home)
 [<img align="left" alt="ShreyPandit2001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShreyPandit2001)
 [<img align="left" alt="ShreyPandit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ShreyPandit)
 
