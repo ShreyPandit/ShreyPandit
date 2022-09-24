@@ -1,7 +1,7 @@
 # Hi there I am Shrey Pandit 👋 <br>
-### I am a Pre-Final year Computer Science student at BITS Goa
+### I am a Final year Computer Science student at BITS Goa
 <br>
-- 🌱 I’m currently exploring the feild of Natural language processing and Computer Vision <br>
+- 🌱 I’m currently an intern at Microsoft Research in the feild of Multilingual NLP <br>
 - ♟ I am interested in Application based research projects of Machine Learning. <br>
 - 👯 I’m looking to collaborate on projects relating to NLP, work that relates to my current field of interest. <br>
 - 👻 Want to know More about Me? Follow me on LinkedIN.
