@@ -1,7 +1,7 @@
 # Hi there I am Shrey Pandit 👋 <br>
 ### I am a Mastes in Computer Science student at University of Texas at Austin
 <br>
-- 🌱 I’m currently an intern at Microsoft Research in the feild of Multilingual NLP <br>
+- 🌱 Ex-intern at Microsoft Research in the feild of Multilingual NLP, Ex-collaborator for Princeton NLP <br>
 - ♟ I am interested in Application based research projects of Machine Learning. <br>
 - 👯 I’m looking to collaborate on projects relating to NLP, work that relates to my current field of interest. <br>
 - 👻 Want to know More about Me? Follow me on LinkedIN.
