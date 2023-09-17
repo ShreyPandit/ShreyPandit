@@ -1,5 +1,5 @@
 # Hi there I am Shrey Pandit 👋 <br>
-### I am a Final year Computer Science student at BITS Goa
+### I am a Mastes in Computer Science student at University of Texas at Austin
 <br>
 - 🌱 I’m currently an intern at Microsoft Research in the feild of Multilingual NLP <br>
 - ♟ I am interested in Application based research projects of Machine Learning. <br>
