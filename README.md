@@ -1,17 +1,19 @@
-# Hi there I am Shrey Pandit 👋 <br>
-### I am a Mastes in Computer Science student at University of Texas at Austin
+# Hi there, I am Shrey Pandit 👋 <br>
+### Research Scientist at Salesforce AI Research, Palo Alto
 <br>
-- 🌱 Ex-intern at Microsoft Research in the feild of Multilingual NLP, Ex-collaborator for Princeton NLP <br>
-- ♟ I am interested in Application based research projects of Machine Learning. <br>
-- 👯 I’m looking to collaborate on projects relating to NLP, work that relates to my current field of interest. <br>
-- 👻 Want to know More about Me? Follow me on LinkedIN.
+- 🔬 I work on reasoning and reliability in large language models — step-level verification, autonomous research agents, and efficient mixture-of-experts training. <br>
+- 📄 Recent work: [Hard2Verify](https://arxiv.org/abs/2510.13744) (ACL 2026), [SFR-DeepResearch](https://arxiv.org/abs/2509.06283), and [MedHallu](https://arxiv.org/abs/2502.14302) (EMNLP 2025). <br>
+- 🎓 M.S. in Computer Science from UT Austin. Previously a research intern at Microsoft Research India and a collaborator with Princeton NLP. <br>
+- 👯 Open to collaborating on NLP and agent research. <br>
+- 🌐 Papers, talks and teaching at [shreypandit.github.io](https://shreypandit.github.io). <br>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/ShreyPandit/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShreyPandit&style=flat-square&color=blue)
 
 ### Connect with me:
 
-[<img align="left" alt="shreypandit.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sites.google.com/view/shrey-pandit/home)
+[<img align="left" alt="shreypandit.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreypandit.github.io)
+[<img align="left" alt="Shrey Pandit | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=a-dG59sAAAAJ&hl=en)
 [<img align="left" alt="ShreyPandit2001 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ShreyPandit2001)
 [<img align="left" alt="ShreyPandit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ShreyPandit)
 
@@ -22,14 +24,16 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="TF" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 ---
 <br>
 <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyPandit&show_icons=true&hide_border=true" />
