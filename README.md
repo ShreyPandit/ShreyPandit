@@ -2,8 +2,7 @@
 ### Research Scientist at Salesforce AI Research, Palo Alto
 <br>
 - 🔬 I work on reasoning and reliability in large language models — step-level verification, autonomous research agents, and efficient mixture-of-experts training. <br>
-- 📄 Recent work: [Hard2Verify](https://arxiv.org/abs/2510.13744) (ACL 2026), [SFR-DeepResearch](https://arxiv.org/abs/2509.06283), and [MedHallu](https://arxiv.org/abs/2502.14302) (EMNLP 2025). <br>
-- 🎓 M.S. in Computer Science from UT Austin. Previously a research intern at Microsoft Research India and a collaborator with Princeton NLP. <br>
+- 🎓 M.S. in Computer Science from UT Austin. Previously a research intern at Microsoft Research India <br>
 - 👯 Open to collaborating on NLP and agent research. <br>
 - 🌐 Papers, talks and teaching at [shreypandit.github.io](https://shreypandit.github.io). <br>
 <br>
